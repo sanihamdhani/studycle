@@ -261,7 +261,7 @@ Integer bilangan2 = Integer.parseInt(bil2.getText().toString());
 Integer bilangan3 = Integer.parseInt(bil3.getText().toString());
 
         int has = bilangan1+bilangan2+bilangan3;
-        double ha = has/4;
+        double ha = has/3;
         hasil.setText("Nilai Rata Rata Adalah "+String.valueOf(ha));
             
     }//GEN-LAST:event_nrActionPerformed
